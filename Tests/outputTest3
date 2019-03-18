@@ -1,0 +1,173 @@
+Please Enter Instructions
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Page Table for PID 0 has been Mapped to Physical Frame 0
+   Page 1 has been Mapped to Physical Frame 1
+   Page 2 has been Mapped to Physical Frame 2
+   Page 3 has been Mapped to Physical Frame 3
+   Virtual Address 60 has been Mapped to Physical Frame 3 (Page 3)
+Swapped Out Page 0 of Process 0
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 0
+Page Table for PID 1 has been Mapped to Physical Frame 0
+   Page 1 has been Mapped to Physical Frame 1
+   Page 2 has been Mapped to Physical Frame 2
+   Page 3 has been Mapped to Physical Frame 3
+   Virtual Address 60 has been Mapped to Physical Frame 3 (Page 3)
+Swapped Out Page 0 of Process 1
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 1
+Page Table for PID 2 has been Mapped to Physical Frame 0
+   Page 1 has been Mapped to Physical Frame 1
+   Page 2 has been Mapped to Physical Frame 2
+   Page 3 has been Mapped to Physical Frame 3
+   Virtual Address 60 has been Mapped to Physical Frame 3 (Page 3)
+Swapped Out Page 0 of Process 2
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 2
+Page Table for PID 3 has been Mapped to Physical Frame 0
+   Page 1 has been Mapped to Physical Frame 1
+   Page 2 has been Mapped to Physical Frame 2
+   Page 3 has been Mapped to Physical Frame 3
+   Virtual Address 60 has been Mapped to Physical Frame 3 (Page 3)
+Swapped Out Page 0 of Process 3
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 3
+Swapped In Page Table for Process 0 (Physical Frame 0)
+   Swapped In Page 0 (Physical Frame 1)
+Stored Value 12 at Virtual Address 12 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped In Page Table for Process 1 (Physical Frame 2)
+   Swapped In Page 0 (Physical Frame 3)
+Stored Value 24 at Virtual Address 12 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 0
+Swapped In Page Table for Process 2 (Physical Frame 0)
+   Swapped In Page 0 (Physical Frame 1)
+Stored Value 36 at Virtual Address 12 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 1
+Swapped In Page Table for Process 3 (Physical Frame 2)
+   Swapped In Page 0 (Physical Frame 3)
+Stored Value 48 at Virtual Address 12 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 2
+Swapped In Page Table for Process 0 (Physical Frame 0)
+   Swapped In Page 3 (Physical Frame 1)
+Stored Value 56 at Virtual Address 60 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 3
+Swapped In Page Table for Process 1 (Physical Frame 2)
+   Swapped In Page 3 (Physical Frame 3)
+Stored Value 64 at Virtual Address 60 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 0
+Swapped In Page Table for Process 2 (Physical Frame 0)
+   Swapped In Page 3 (Physical Frame 1)
+Stored Value 72 at Virtual Address 60 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 1
+Swapped In Page Table for Process 3 (Physical Frame 2)
+   Swapped In Page 3 (Physical Frame 3)
+Stored Value 80 at Virtual Address 60 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 2
+Swapped In Page Table for Process 0 (Physical Frame 0)
+   Swapped In Page 0 (Physical Frame 1)
+The Value 12 was Loaded from Virtual Address 12 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 3
+Swapped In Page Table for Process 1 (Physical Frame 2)
+   Swapped In Page 0 (Physical Frame 3)
+The Value 24 was Loaded from Virtual Address 12 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 0
+Swapped In Page Table for Process 2 (Physical Frame 0)
+   Swapped In Page 0 (Physical Frame 1)
+The Value 36 was Loaded from Virtual Address 12 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 1
+Swapped In Page Table for Process 3 (Physical Frame 2)
+   Swapped In Page 0 (Physical Frame 3)
+The Value 48 was Loaded from Virtual Address 12 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 2
+Swapped In Page Table for Process 0 (Physical Frame 0)
+   Swapped In Page 3 (Physical Frame 1)
+The Value 56 was Loaded from Virtual Address 60 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 3
+Swapped In Page Table for Process 1 (Physical Frame 2)
+   Swapped In Page 3 (Physical Frame 3)
+The Value 64 was Loaded from Virtual Address 60 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 0
+Swapped In Page Table for Process 2 (Physical Frame 0)
+   Swapped In Page 3 (Physical Frame 1)
+The Value 72 was Loaded from Virtual Address 60 (Physical Address 28)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
+Input: 
+Swapped Out All Pages for Process 1
+Swapped In Page Table for Process 3 (Physical Frame 2)
+   Swapped In Page 3 (Physical Frame 3)
+The Value 80 was Loaded from Virtual Address 60 (Physical Address 60)
+
+Format: PID,Instruction,Virtual Address,Value
+To Quit, Type 'Exit'
